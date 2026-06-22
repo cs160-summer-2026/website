@@ -29,12 +29,14 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Cory 277
+        location: GSPP 150
       - name: Studio A
+        class: studio
         start: 1:00 PM
         end: 1:59 PM
         location: Soda 405
       - name: Studio C
+        class: studio
         start: 2:00 PM
         end: 2:59 PM
         location: Wheeler 220
@@ -43,8 +45,9 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Cory 277
+        location: GSPP 150
       - name: Studio B
+        class: studio
         start: 2:00 PM
         end: 2:59 PM
         location: Soda 320
@@ -53,12 +56,14 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Cory 277
+        location: GSPP 150
       - name: Studio A
+        class: studio
         start: 1:00 PM
         end: 1:59 PM
         location: Soda 405
       - name: Studio C
+        class: studio
         start: 2:00 PM
         end: 2:59 PM
         location: Wheeler 220
@@ -70,8 +75,9 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Cory 277
+        location: GSPP 150
       - name: Studio B
+        class: studio
         start: 2:00 PM
         end: 2:59 PM
         location: Soda 320
