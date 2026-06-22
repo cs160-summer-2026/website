@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # xuxi
 
 xuxi is the platform we’ll use this semester to host **programming exercises**.

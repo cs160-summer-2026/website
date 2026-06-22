@@ -1,5 +1,6 @@
 ---
 timeline:
+  - "8:00 AM"
   - "9:00 AM"
   - "9:30 AM"
   - "10:00 AM"
@@ -24,47 +25,15 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Edward's OH
-        start: 2:00 PM
-        end: 2:59 PM
-        location: Soda 347
-      # - name: Rahul's office hours
-      #   start: 2:00 PM
-      #   end: 3:00 PM
-      #   location: Soda 405
-      # - name: James's office hours
-      #   start: 3:00 PM
-      #   end: 5:00 PM
-      #   location: virtual, <a href="https://calendly.com/james-d-smith/cs-160-office-hours">by appointment</a>
   - name: Tuesday
     events:
-      - name: Tim’s office hours
-        start: 10:00 AM
-        end: 10:45 AM
-        location: Cory 367
-      - name: Edward's OH
-        start: 4:00 PM
-        end: 4:59 PM
-        location: Zoom, see above
   - name: Wednesday
     events:
-      - name: Tim’s office hours
-        start: 10:00 AM
-        end: 10:45 AM
-        location: Cory 367
-      - name: James' OH
-        start: 3:10 PM
-        end: 4:10 PM
-        location: Zoom, see above
   - name: Thursday
     events:
-      - name: Connie's OH
-        start: 10:00 AM
-        end: 10:59 AM
-        location: Soda 347
-      - name: James' OH
-        start: 3:10 PM
-        end: 4:10 PM
-        location: Zoom, see above
+      - name: Ananya’s OH
+        start: 8:00 AM
+        end: 8:45 AM
+        location: Zoom, by appointment
   - name: Friday
 ---

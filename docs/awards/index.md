@@ -2,6 +2,7 @@
 layout: page
 title: Awards
 description: Winners of this semester's final project awards.
+nav_exclude: true
 ---
 
 The course-wide final project was a team effort, with teams conducting user interviews, building low- and high-fidelity prototypes of software designs, and ultimately showing off their final prototype in an in-class demo session. This semester, the course theme was **novel intelligent user interfaces**.

@@ -1,5 +1,6 @@
 ---
 timeline:
+  - "8:00 AM"
   - "9:00 AM"
   - "9:30 AM"
   - "10:00 AM"
@@ -54,28 +55,16 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Cory 277
-      - name: Tim’s office hours
-        start: 10:00 AM
-        end: 10:45 AM
-        location: Cory 367
       - name: Section C
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
-      - name: Edward's OH
-        start: 4:00 PM
-        end: 4:59 PM
-        location: Zoom, see above
   - name: Wednesday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: Cory 277
-      - name: Tim’s office hours
-        start: 10:00 AM
-        end: 10:45 AM
-        location: Cory 367
       - name: Section A
         start: 1:00 PM
         end: 1:59 PM
@@ -84,16 +73,12 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
-      - name: James' OH
-        start: 3:10 PM
-        end: 4:10 PM
-        location: Zoom, see above
   - name: Thursday
     events:
-      - name: Connie's OH
-        start: 10:00 AM
-        end: 10:59 AM
-        location: Soda 347
+      - name: Ananya’s OH
+        start: 8:00 AM
+        end: 8:45 AM
+        location: Zoom, by appointment
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -102,9 +87,5 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Cory 521
-      - name: James' OH
-        start: 3:10 PM
-        end: 4:10 PM
-        location: Zoom, see above
   - name: Friday
 ---
