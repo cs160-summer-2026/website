@@ -42,7 +42,8 @@ This is an eight-week course. You should plan to be physically present and engag
 
 ## Staff
 
-Teaching assistants: Selaine Rodriguez, Mina Huh, Ananya, Vivian, Arhaan
+Instructors: Selaine Rodriguez, Mina Huh
+Teaching assistants: Ananya, Vivian, Arhaan
 
 Office hours: see [calendar]({{ '/meeting-times' | relative_url }})
 
@@ -51,7 +52,7 @@ Office hours: see [calendar]({{ '/meeting-times' | relative_url }})
 | Platform | Purpose | Description |
 | -------- | ------- | ----------- |
 | Course website | {::nomarkdown}<ul><li>Syllabus</li><li>Course description</li><li>Staff info</li><li>Calendar</li></ul>{:/} | |
-| [bCourses](https://bcourses.berkeley.edu/courses/1545463) | {::nomarkdown}<ul><li>Assignment submissions</li><li>Course files</li></ul>{:/} | Please **do not** use bCourses's messaging feature to communicate with the instructors. Use EdStem or Slack depending on your needs. |
+| [bCourses](https://bcourses.berkeley.edu/courses/1555441) | {::nomarkdown}<ul><li>Assignment submissions</li><li>Course files</li></ul>{:/} | Please **do not** use bCourses's messaging feature to communicate with the instructors. Use EdStem or Slack depending on your needs. |
 | Slack | {::nomarkdown}<ul><li>Team work</li><li>Specific questions about your team project</li></ul>{:/} | |
 | EdStem | {::nomarkdown}<ul><li>Ask general questions about the course or programming</li><li>Anonymous questions</li></ul>{:/} | |
 
