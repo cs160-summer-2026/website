@@ -10,12 +10,10 @@ July 6th
 
 July 7th
 : **Lecture**{: .label .label-lecture} Lecture 10: User Studies: Designing and Conducting
-  : Pilot studies; interview guides; safe/fair study; recruitment; AB testing
 : **Studio**{: .label .label-discussion} Studio 5: JS
 
 July 8th
 : **Lecture**{: .label .label-lecture} Lecture 11: User Studies: Analysis + Presentation
-  : Thematic coding; quantitative analysis
 : **Studio**{: .label .label-discussion} Studio 6: User Study Continued
 
 July 9th

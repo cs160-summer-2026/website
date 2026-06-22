@@ -6,7 +6,6 @@ title: Week 2 – Introduction to Web Programming, Learnability, and Heuristics
 
 June 29th
 : **Lecture**{: .label .label-lecture} Lecture 5: Web Applications, HTML, CSS
-  : Why web apps (universality), HTML, CSS, resources
 : **Studio**{: .label .label-discussion} Studio 3: HTML, CSS
 
 June 30th

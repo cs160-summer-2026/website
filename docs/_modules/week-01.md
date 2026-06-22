@@ -14,15 +14,11 @@ June 23rd
 
 June 24th
 : **Lecture**{: .label .label-lecture} Lecture 3: Needfinding + Ideation
-  : Deciding target users; team project ideas
 : **Studio**{: .label .label-discussion} Studio 2: Team Finding & Project Expectations
-  : Explain project milestones; Crazy 8's (design ideas)
 
 June 25th
 : **Lecture**{: .label .label-lecture} Lecture 4: Design Methods: Sketching & Prototyping
-  : Larger issues: creators, accessibility, learning, collaboration, AI; storyboarding
 : **Studio**{: .label .label-discussion} Studio 2: Team Finding & Project Expectations
-  : Explain project milestones; Crazy 8's (design ideas)
 : **PA Released**{: .label .label-proj} PA #1: Lo-fi Prototyping
 
 <!-- prettier-ignore-end -->
