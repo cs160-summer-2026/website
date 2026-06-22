@@ -10,7 +10,7 @@ description: The weekly event schedule.
 
 - **Mina**: TBD
 - **Selaine**: TBD
-- **Ananya**: Thursday, 8:00 AM – 8:45 AM, Zoom by appointment
+- **Ananya**: Thursday, 8:00 AM – 9:00 AM, on Zoom by Appointment
 - **Vivian**: TBD
 - **Arhaan**: TBD
 

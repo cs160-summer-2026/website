@@ -1,6 +1,7 @@
 ---
 timeline:
   - "8:00 AM"
+  - "8:30 AM"
   - "9:00 AM"
   - "9:30 AM"
   - "10:00 AM"
@@ -33,7 +34,6 @@ schedule:
     events:
       - name: Ananya’s OH
         start: 8:00 AM
-        end: 8:45 AM
-        location: Zoom, by appointment
+        end: 9:00 AM
   - name: Friday
 ---
