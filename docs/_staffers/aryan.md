@@ -1,7 +1,7 @@
 ---
-name: Aryan Aggarwal
+name: Arhaan Aggarwal
 role: Teaching Assistant
-email: 
+email: arhaan@berkeley.edu
 website: 
 photo: empty-profile.webp
 pronouns: 
