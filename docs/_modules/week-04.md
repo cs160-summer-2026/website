@@ -6,7 +6,7 @@ title: Week 4 – DB, Social Computing, Learning, and Accessibility
 
 July 13th
 : **Lecture**{: .label .label-lecture} Lecture 13: Web Applications, DB
-: **Studio**{: .label .label-discussion} Studio 7: DB
+: **Studio**{: .label .label-discussion} Studio 6: DB
 
 July 14th
 : **Lecture**{: .label .label-lecture} Lecture 14: Social Computing
@@ -14,7 +14,7 @@ July 14th
 
 July 15th
 : **Lecture**{: .label .label-lecture} Lecture 15: Interfaces for Learning
-: **Studio**{: .label .label-discussion} Studio 8: Social Computing and Learning Applications
+: **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
 
 July 16th
 : **Lecture**{: .label .label-lecture} Lecture 16: Accessibility

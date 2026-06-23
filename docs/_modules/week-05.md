@@ -6,7 +6,7 @@ title: Week 5 – Ethics and Applications (Play, AI, Agents)
 
 July 20th
 : **Lecture**{: .label .label-lecture} Lecture 17: Ethics
-: **Studio**{: .label .label-discussion} Studio 9: Midterm Review
+: **Studio**{: .label .label-discussion} Studio 8: Midterm Review
 
 July 21st
 : **Lecture**{: .label .label-lecture} Lecture 18: Designing for Fun / Play
@@ -15,7 +15,7 @@ July 21st
 July 22nd
 : **Lecture**{: .label .label-lecture} Lecture 19: Midterm (during class)
 : **Midterm**{: .label} Midterm (handwritten cheatsheet allowed)
-: **Studio**{: .label .label-discussion} Studio 10: Project Work
+: **Studio**{: .label .label-discussion} Studio 9: Project Work
 
 July 23rd
 : **Lecture**{: .label .label-lecture} Lecture 20: Wearable AI

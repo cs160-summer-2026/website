@@ -6,7 +6,7 @@ title: Week 6 – Applications (Ubiquitous, Tangible, Embodied, Agents)
 
 July 27th
 : **Lecture**{: .label .label-lecture} Lecture 21: Ubiquitous Computing
-: **Studio**{: .label .label-discussion} Studio 11: Team Critique on High-Fi
+: **Studio**{: .label .label-discussion} Studio 10: Team Critique on High-Fi
 
 July 28th
 : **Lecture**{: .label .label-lecture} Lecture 22: Tangible UI
@@ -14,7 +14,7 @@ July 28th
 
 July 29th
 : **Lecture**{: .label .label-lecture} Lecture 23: AI for Interfaces, Interfaces for AI
-: **Studio**{: .label .label-discussion} Studio 12: User Evaluation Plan Share Out
+: **Studio**{: .label .label-discussion} Studio 11: User Evaluation Plan Share Out
 
 July 30th
 : **Lecture**{: .label .label-lecture} Lecture 24: Agents
