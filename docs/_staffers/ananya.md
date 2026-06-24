@@ -1,10 +1,10 @@
 ---
 name: Ananya Gubbi Mohanbabu
 role: Teaching Assistant
-email: 
+email: ananyagm@berkeley.edu
 website: 
 photo: ananya.jpg
-pronouns: 
+pronouns: she/her
 order: 1
 ---
 
