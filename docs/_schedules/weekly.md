@@ -56,6 +56,9 @@ schedule:
         location: Soda 320
   - name: Wednesday
     events:
+      - name: Mina's OH
+        start: 9:00 AM
+        end: 10:00 AM
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM

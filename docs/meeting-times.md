@@ -8,7 +8,7 @@ description: The weekly event schedule.
 
 ## Office hours:
 
-- **Mina**: TBD
+- **Mina**: Thursday, 9:00 AM – 10:00 AM, [on Zoom by Appointment](https://calendar.app.google/Us8PP2n88o5iuWnH9)
 - **Selaine**: TBD
 - **Ananya**: Thursday, 8:00 AM – 9:00 AM, [on Zoom by Appointment](https://calendar.app.google/CcRSmrcWAMXTKaVt9)
 - **Vivian**: TBD
