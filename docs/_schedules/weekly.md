@@ -42,6 +42,9 @@ schedule:
         location: Wheeler 220
   - name: Tuesday
     events:
+      - name: Ananya's OH
+        start: 8:00 AM
+        end: 9:00 AM
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
