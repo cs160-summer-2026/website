@@ -14,6 +14,7 @@ June 23rd
 
 June 24th
 : **Lecture**{: .label .label-lecture} Lecture 3: Needfinding + Ideation
+  : [Slides] (https://docs.google.com/presentation/d/17SrfvfHhi8JKkCaj-v5gu8PJh1eNg9DBzjGzXv1gO5g/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
 
 June 25th
