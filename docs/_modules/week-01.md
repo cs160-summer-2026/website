@@ -20,6 +20,7 @@ June 24th
 
 June 25th
 : **Lecture**{: .label .label-lecture} Lecture 4: Design Methods: Sketching & Prototyping
+  : [Slides](https://docs.google.com/presentation/d/1M3BuvGuGGcMSZtnj8r5X0IDRS8GztYgXzusHRTUOiM8/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
   : [Slides](https://docs.google.com/presentation/d/1IhnJ4X2TreplfijI4hNMBQR2Tf3r8qN5Aoja-G1t8co/edit?usp=sharing)
 : **PA Released**{: .label .label-proj} PA #1: Lo-fi Prototyping
