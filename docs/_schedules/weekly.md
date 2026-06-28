@@ -40,15 +40,18 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Wheeler 220
+      - name: Selaine's OH
+        start: 5:00 PM
+        end: 6:00 PM
   - name: Tuesday
     events:
-      - name: Ananya's OH
-        start: 8:00 AM
-        end: 9:00 AM
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: GSPP 150
+      - name: Vivian's OH
+        start: 1:00 PM
+        end: 2:00 PM
       - name: Studio B
         class: studio
         start: 2:00 PM
@@ -82,6 +85,9 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: GSPP 150
+      - name: Vivian's OH
+        start: 1:00 PM
+        end: 2:00 PM
       - name: Studio B
         class: studio
         start: 2:00 PM
