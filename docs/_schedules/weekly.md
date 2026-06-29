@@ -40,6 +40,10 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Wheeler 220
+      - name: Arhaan's OH
+        start: 4:00 PM
+        end: 5:00 PM
+        location:Chou Hall N558
       - name: Selaine's OH
         start: 5:00 PM
         end: 6:00 PM
@@ -76,6 +80,10 @@ schedule:
         start: 2:00 PM
         end: 2:59 PM
         location: Wheeler 220
+      - name: Arhaan's OH
+        start: 4:00 PM
+        end: 5:00 PM
+        location:Chou Hall N558
   - name: Thursday
     events:
       - name: Ananya’s OH
