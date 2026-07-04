@@ -24,7 +24,7 @@ July 1st
 : **Reading**{: .label .label-proj} [10 Usability Heuristics for UI](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 July 2nd
-: **Lecture**{: .label .label-lecture} Lecture 8: Model Human Processor & Heuristics
+: **Lecture**{: .label .label-lecture} Lecture 8: MHP & Heuristics
   : [Slides](https://docs.google.com/presentation/d/16P7PAIfk8PtLZnh206LwfaVou-gHAvagKJXwpoL10Mo/edit?usp=sharing) 
 : **Studio**{: .label .label-discussion} Studio 3: Learnability Dos and Don'ts
 : **PA Released**{: .label .label-proj} PA #2-1: HTML, CSS
