@@ -20,7 +20,6 @@ July 9th
 : **Lecture**{: .label .label-lecture} Lecture 12: Team Introductions and Initial Thoughts
 : **Studio**{: .label .label-discussion} Studio 5: User Study Continued
 : **PA Released**{: .label .label-proj} PA #2-2: JS
-: **Project Milestone Due**{: .label .label-proj} Project Milestone 1: Needfinding
 
 July 10th
 : **PA Due**{: .label .label-proj} PA #2-1: HTML, CSS
