@@ -7,6 +7,7 @@ title: Week 4 – DB, Social Computing, Learning, and Accessibility
 July 13th
 : **Lecture**{: .label .label-lecture} Lecture 13: Web Applications, DB
 : **Studio**{: .label .label-discussion} Studio 6: DB
+: **Project Milestone Due**{: .label .label-proj} Project Milestone 1: Needfinding
 
 July 14th
 : **Lecture**{: .label .label-lecture} Lecture 14: Social Computing
