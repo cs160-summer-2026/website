@@ -6,6 +6,7 @@ title: Week 3 – JS and User Studies
 
 July 6th
 : **Lecture**{: .label .label-lecture} Lecture 9: Web Applications, JS
+  : [Slides](https://docs.google.com/presentation/d/13f5iS82z-VsVuIex3PCoD3gZY1c4hyXXONmx1XeXqBo/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 4: JS
 
 July 7th
