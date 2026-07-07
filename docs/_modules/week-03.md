@@ -8,10 +8,13 @@ July 6th
 : **Lecture**{: .label .label-lecture} Lecture 9: Web Applications, JS
   : [Slides](https://docs.google.com/presentation/d/13f5iS82z-VsVuIex3PCoD3gZY1c4hyXXONmx1XeXqBo/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 4: JS
+  : [Slides](https://docs.google.com/presentation/d/1oTV1i9pSDMtPJbNjXxbLv5WGm_uGyJFDc70JTtLb__w/edit?usp=sharing)
 
 July 7th
 : **Lecture**{: .label .label-lecture} Lecture 10: User Studies: Designing and Conducting
+  : [Slides](https://docs.google.com/presentation/d/1D9Wi5BFp8NUMx6skw9sbgfCS-sRH3HDS5bCAd8U7ohk/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 4: JS
+  : [Slides](https://docs.google.com/presentation/d/1oTV1i9pSDMtPJbNjXxbLv5WGm_uGyJFDc70JTtLb__w/edit?usp=sharing)
 
 July 8th
 : **Lecture**{: .label .label-lecture} Lecture 11: User Studies: Analysis + Presentation
