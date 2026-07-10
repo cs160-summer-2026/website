@@ -19,12 +19,14 @@ July 7th
 July 8th
 : **Lecture**{: .label .label-lecture} Lecture 11: User Studies: Analysis + Presentation
   : [Slides](https://docs.google.com/presentation/d/1UaeBPPis7rAOYoSjpuHRgnhuopY00-k2wToPi3MyBBY/edit?usp=sharing)
-: **Studio**{: .label .label-discussion} Studio 5: User Study Continued
+: **Studio**{: .label .label-discussion} Studio 5: User Study
+  : [Slides](https://docs.google.com/presentation/d/17owfjrYhJeRn4HnvrIKeTf3nfB3uzR7iNd5aHpn62n4/edit?usp=sharing)
 
 July 9th
 : **Lecture**{: .label .label-lecture} Lecture 12: Team Introductions and Initial Thoughts
-  :[Slides](https://docs.google.com/presentation/d/1oRnsnQwuEUj2OECni4b7KyyuLRGHL9zalX2agQychjw/edit?usp=sharing)
-: **Studio**{: .label .label-discussion} Studio 5: User Study Continued
+  : [Slides](https://docs.google.com/presentation/d/1oRnsnQwuEUj2OECni4b7KyyuLRGHL9zalX2agQychjw/edit?usp=sharing)
+: **Studio**{: .label .label-discussion} Studio 5: User Study
+  : [Slides](https://docs.google.com/presentation/d/17owfjrYhJeRn4HnvrIKeTf3nfB3uzR7iNd5aHpn62n4/edit?usp=sharing)
 : **PA Released**{: .label .label-proj} PA #2-2: JS
 
 July 10th
