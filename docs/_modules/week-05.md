@@ -1,5 +1,5 @@
 ---
-title: Week 5 – Ethics and Applications (Play, AI, Agents)
+title: Week 5 – Midterm and Applications (Play, Wearable AI)
 ---
 
 <!-- prettier-ignore-start -->
