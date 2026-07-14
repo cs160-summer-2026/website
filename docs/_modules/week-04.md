@@ -12,6 +12,7 @@ July 13th
 
 July 14th
 : **Lecture**{: .label .label-lecture} Lecture 14: Social Computing
+  : [Slides](https://docs.google.com/presentation/d/1o0PJmfyxIKE8HLJVsyBFyc2hlWc0Sx9zUUdb-Vj4imI/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 6: DB
 
 July 15th
