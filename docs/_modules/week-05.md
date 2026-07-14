@@ -5,20 +5,20 @@ title: Week 5 – Ethics and Applications (Play, AI, Agents)
 <!-- prettier-ignore-start -->
 
 July 20th
-: **Lecture**{: .label .label-lecture} Lecture 17: Ethics
+: **Lecture**{: .label .label-lecture} Lecture 17: Designing for Fun / Play
 : **Studio**{: .label .label-discussion} Studio 8: Midterm Review
 
 July 21st
-: **Lecture**{: .label .label-lecture} Lecture 18: Designing for Fun / Play
+: **Lecture**{: .label .label-lecture} No Class: Study for Midterm
 : **Studio**{: .label .label-discussion} Studio 8: Midterm Review
 
 July 22nd
-: **Lecture**{: .label .label-lecture} Lecture 19: Midterm (during class)
+: **Lecture**{: .label .label-lecture} Midterm (during class)
 : **Midterm**{: .label} Midterm (handwritten cheatsheet allowed)
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
 
 July 23rd
-: **Lecture**{: .label .label-lecture} Lecture 20: Wearable AI
+: **Lecture**{: .label .label-lecture} Lecture 18: Wearable AI
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
