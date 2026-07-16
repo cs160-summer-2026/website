@@ -8,6 +8,6 @@ August 9th
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 6: Final Report & Demo
 
 August 10th
-: **Lecture**{: .label .label-lecture} Lecture 27: Final Project Demos
+: **Lecture**{: .label .label-lecture} Lecture 27: Final Project Share-out 2/2
 
 <!-- prettier-ignore-end -->
