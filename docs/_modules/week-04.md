@@ -17,10 +17,12 @@ July 14th
 
 July 15th
 : **Lecture**{: .label .label-lecture} Lecture 15: Interfaces for Learning
+  : [Slides](https://docs.google.com/presentation/d/1QvyJRD8xsHGwb-dhsQwO-RkdhQ-ej0NjRhIJbtwiA98/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
 
 July 16th
 : **Lecture**{: .label .label-lecture} Lecture 16: Accessibility
+  : [Slides](https://docs.google.com/presentation/d/1NzvkXyKPuOCPOz_Wi_Qd8KMj5GL2pXAsrfVKWxYRdf0/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
 : **PA Released**{: .label .label-proj} PA #3: DB & Server
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 2: Low-fi
