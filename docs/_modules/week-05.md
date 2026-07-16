@@ -18,7 +18,7 @@ July 22nd
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
 
 July 23rd
-: **Lecture**{: .label .label-lecture} Lecture 18: Wearable AI
+: **Lecture**{: .label .label-lecture} Lecture 18: Wearable Interfaces
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
