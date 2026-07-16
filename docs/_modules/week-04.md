@@ -16,7 +16,7 @@ July 14th
 : **Studio**{: .label .label-discussion} Studio 6: DB
 
 July 15th
-: **Lecture**{: .label .label-lecture} Lecture 15: Interfaces for Learning
+: **Lecture**{: .label .label-lecture} Lecture 15: Interfaces for Learning & Creating
   : [Slides](https://docs.google.com/presentation/d/1QvyJRD8xsHGwb-dhsQwO-RkdhQ-ej0NjRhIJbtwiA98/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
 
