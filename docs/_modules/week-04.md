@@ -24,10 +24,10 @@ July 16th
 : **Lecture**{: .label .label-lecture} Lecture 16: Accessibility
   : [Slides](https://docs.google.com/presentation/d/1NzvkXyKPuOCPOz_Wi_Qd8KMj5GL2pXAsrfVKWxYRdf0/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
-: **PA Released**{: .label .label-proj} PA #3: DB & Server
+: **PA Released**{: .label .label-proj} PA #4: DB & Server
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 2: Low-fi
 
 July 17th
-: **PA Due**{: .label .label-proj} PA #2-2: JS
+: **PA Due**{: .label .label-proj} PA #3: JS
 
 <!-- prettier-ignore-end -->

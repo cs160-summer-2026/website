@@ -23,6 +23,6 @@ July 23rd
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
 July 24th
-: **PA Due**{: .label .label-proj} PA #3: DB & Server
+: **PA Due**{: .label .label-proj} PA #4: DB & Server
 
 <!-- prettier-ignore-end -->

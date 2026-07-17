@@ -27,9 +27,9 @@ July 9th
   : [Slides](https://docs.google.com/presentation/d/1oRnsnQwuEUj2OECni4b7KyyuLRGHL9zalX2agQychjw/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 5: User Study
   : [Slides](https://docs.google.com/presentation/d/17owfjrYhJeRn4HnvrIKeTf3nfB3uzR7iNd5aHpn62n4/edit?usp=sharing)
-: **PA Released**{: .label .label-proj} PA #2-2: JS
+: **PA Released**{: .label .label-proj} PA #3: JS
 
 July 10th
-: **PA Due**{: .label .label-proj} PA #2-1: HTML, CSS
+: **PA Due**{: .label .label-proj} PA #2: HTML, CSS
 
 <!-- prettier-ignore-end -->

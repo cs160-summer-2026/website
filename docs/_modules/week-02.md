@@ -29,7 +29,7 @@ July 2nd
   : [Slides](https://docs.google.com/presentation/d/16P7PAIfk8PtLZnh206LwfaVou-gHAvagKJXwpoL10Mo/edit?usp=sharing) 
 : **Studio**{: .label .label-discussion} Studio 3: Learnability Dos and Don'ts
   : [Slides](https://docs.google.com/presentation/d/1_e-59E1DLBpNN7duYD6g4IG2ETEwcsKQ2RZY5evWRnU/edit?usp=sharing)
-: **PA Released**{: .label .label-proj} PA #2-1: HTML, CSS
+: **PA Released**{: .label .label-proj} PA #2: HTML, CSS
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 0: Submit team names
 
 July 3rd
