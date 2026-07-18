@@ -20,7 +20,6 @@ July 22nd
 July 23rd
 : **Lecture**{: .label .label-lecture} Lecture 18: Wearable Interfaces
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
-: **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
 July 24th
 : **PA Due**{: .label .label-proj} PA #4: DB & Server
