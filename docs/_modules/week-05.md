@@ -6,6 +6,7 @@ title: Week 5 – Midterm and Applications (Play, Wearable AI)
 
 July 20th
 : **Lecture**{: .label .label-lecture} Lecture 17: Designing for Fun / Play
+  : [Slides](https://docs.google.com/presentation/d/1ao-RJgG-0gLe3zs72-v_gLt-SuWAnhb4-1zUdh24Iag/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 8: Midterm Review
 
 July 21st
