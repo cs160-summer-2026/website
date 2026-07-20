@@ -1,5 +1,5 @@
 ---
-title: Week 7 – Applications (Creativity, Robotics, Industry vs. Academia)
+title: Week 7 – Applications (AR/VR, Robotics, Industry vs. Academia)
 ---
 
 <!-- prettier-ignore-start -->
