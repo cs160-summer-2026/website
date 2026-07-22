@@ -19,10 +19,12 @@ July 22nd
 : **Lecture**{: .label .label-lecture} Midterm (during class)
 : **Midterm**{: .label} Midterm (handwritten cheatsheet allowed)
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
+  : [Slides](https://docs.google.com/presentation/d/1-9ly7r3VpOka0kH0hsBNMGX7QDjec0IxocZqNNrgQyU/edit?usp=sharing)
 
 July 23rd
 : **Lecture**{: .label .label-lecture} Lecture 18: Wearable Interfaces
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
+  : [Slides](https://docs.google.com/presentation/d/1-9ly7r3VpOka0kH0hsBNMGX7QDjec0IxocZqNNrgQyU/edit?usp=sharing)
 
 July 24th
 : **PA Due**{: .label .label-proj} PA #4: DB & Server
