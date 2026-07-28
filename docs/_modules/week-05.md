@@ -23,7 +23,7 @@ July 22nd
 
 July 23rd
 : **Lecture**{: .label .label-lecture} Lecture 18: Wearable Interfaces
-  :[Slides](https://docs.google.com/presentation/d/1fb78CBGJC05_9Hqx4gcnGVopaipfXXVsBJLLjCgLF_Q/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1fb78CBGJC05_9Hqx4gcnGVopaipfXXVsBJLLjCgLF_Q/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 9: Project Work
   : [Slides](https://docs.google.com/presentation/d/1-9ly7r3VpOka0kH0hsBNMGX7QDjec0IxocZqNNrgQyU/edit?usp=sharing)
 

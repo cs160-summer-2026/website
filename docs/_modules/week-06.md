@@ -9,11 +9,14 @@ July 26th
 
 July 27th
 : **Lecture**{: .label .label-lecture} Lecture 19: Ubiquitous Computing
+  : [Slides](https://docs.google.com/presentation/d/1pCppgQHykICjwqBC2zCHpnPULonkoXhMRFXgFOj7jew/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 10: Team Critique on High-Fi
+  : [Slides](https://docs.google.com/presentation/d/1DvdTfCJF82Kfvanz66gFGG-_R5f6NV-Xpp0sVuyN1mg/edit?usp=sharing)
 
 July 28th
 : **Lecture**{: .label .label-lecture} Lecture 20: Tangible UI (Guest Lecture by Vivian)
 : **Studio**{: .label .label-discussion} Studio 10: Team Critique on High-Fi
+  : [Slides](https://docs.google.com/presentation/d/1DvdTfCJF82Kfvanz66gFGG-_R5f6NV-Xpp0sVuyN1mg/edit?usp=sharing)
 
 July 29th
 : **Lecture**{: .label .label-lecture} Lecture 21: AI for Interfaces, Interfaces for AI
