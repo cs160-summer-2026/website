@@ -24,6 +24,7 @@ July 29th
 
 July 30th
 : **Lecture**{: .label .label-lecture} Lecture 22: Agents (Guest Lecture by Ananya)
+  : [Slides](https://docs.google.com/presentation/d/1pstzG5ThPcRo9VaLWd86kxjgm8eLQnOBqP2H4C4DAd4/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 11: User Evaluation Plan Share Out
 
 July 31st
