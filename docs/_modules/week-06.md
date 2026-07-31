@@ -23,11 +23,13 @@ July 29th
 : **Lecture**{: .label .label-lecture} Lecture 21: AI for Interfaces, Interfaces for AI
   : [Slides](https://docs.google.com/presentation/d/1muCcvCLda9PQDDNpqjRXDT4_xa7cxSwOIZc2Py73Odw/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 11: User Evaluation Plan Share Out
+  : [Slides](https://docs.google.com/presentation/d/1XHdqdZOcEg4Groy5MHGmXkVdSY52sE4WseGXkZOJLeI/edit?usp=sharing)
 
 July 30th
 : **Lecture**{: .label .label-lecture} Lecture 22: Agents (Guest Lecture by Ananya)
   : [Slides](https://docs.google.com/presentation/d/1pstzG5ThPcRo9VaLWd86kxjgm8eLQnOBqP2H4C4DAd4/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 11: User Evaluation Plan Share Out
+  : [Slides](https://docs.google.com/presentation/d/1XHdqdZOcEg4Groy5MHGmXkVdSY52sE4WseGXkZOJLeI/edit?usp=sharing)
 
 July 31st
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 4: Implementation (~100%)
