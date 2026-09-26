@@ -6,16 +6,17 @@ title: Week 7 – Applications (AR/VR, Robotics, Industry vs. Academia)
 
 August 3rd
 : **Lecture**{: .label .label-lecture} Lecture 23: HCI Career Paths: Building Interfaces in Industry/Academia
-  : [Slides](https://docs.google.com/presentation/d/1-LHGc7bYqjmSnsZ7XvlXHrCpopZuCeaEvUu1I2WJvQM/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1eUvG2gxuBsBG-2ooUqhVBilr9eG13dkVVD29mrKispY/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 12: Group Work
 
 August 4th
 : **Lecture**{: .label .label-lecture} Lecture 24: AR/VR
-  : [Slides](https://docs.google.com/presentation/d/1Mj5s3gHBmCz0JMzKsO93jpDwjyELndjQgDgt3EdIocA/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1W1wP2XL5i-V36Ea99Q4Fsh3unH8ZQmxBgXyftFD2-58/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 12: Group Work
 
 August 5th
 : **Lecture**{: .label .label-lecture} Lecture 25: Robotic Interfaces
+: [Slides](https://docs.google.com/presentation/d/1-uWpNA03AzXbgX1u_C2LF1bAgRpC8uXiie-yyUIZpxE/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 13: Group Work
 
 August 6th
