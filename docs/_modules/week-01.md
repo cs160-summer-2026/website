@@ -10,17 +10,17 @@ June 22nd
 
 June 23rd
 : **Lecture**{: .label .label-lecture} Lecture 2: Design Cycle
-  : [Slides](https://docs.google.com/presentation/d/1wOJLuu2WbwYb9mrLD0hQdCdMQfm9kTMgEktzT9u_B9Y/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1eo6JFwFMPzEcCwgo0i5aMxe9nZHUBpu2WIushsij3NQ/edit?usp=sharing)
 
 June 24th
 : **Lecture**{: .label .label-lecture} Lecture 3: Needfinding + Ideation
-  : [Slides](https://docs.google.com/presentation/d/17SrfvfHhi8JKkCaj-v5gu8PJh1eNg9DBzjGzXv1gO5g/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1OmxxYtCpe3a2D_b29zjw2dIs3aGHXnQOAOl-IBeTnFU/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
   : [Slides](https://docs.google.com/presentation/d/1IhnJ4X2TreplfijI4hNMBQR2Tf3r8qN5Aoja-G1t8co/edit?usp=sharing)
 
 June 25th
 : **Lecture**{: .label .label-lecture} Lecture 4: Design Methods: Sketching & Prototyping
-  : [Slides](https://docs.google.com/presentation/d/1M3BuvGuGGcMSZtnj8r5X0IDRS8GztYgXzusHRTUOiM8/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1pmoWbGJjLSdEJdNqsXFwHDBWOkl9TTa8feP4T9c2YKU/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
   : [Slides](https://docs.google.com/presentation/d/1IhnJ4X2TreplfijI4hNMBQR2Tf3r8qN5Aoja-G1t8co/edit?usp=sharing)
 : **PA Released**{: .label .label-proj} PA #1: Lo-fi Prototyping
